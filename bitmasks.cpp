@@ -69,7 +69,3 @@ int64_t getcount(int64_t n, int64_t k) {
     return res;
 }
 
-int main() {
-
-    return 0;
-}
